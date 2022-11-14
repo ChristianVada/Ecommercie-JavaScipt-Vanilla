@@ -147,6 +147,7 @@ main{
     background-color: #F5F5F5;
     height: 260px;
     overflow-y: auto;
+    display: none;
 
 }
 
@@ -197,7 +198,7 @@ main{
     height: 95px;
     background-color: #333333;
     color: white;
-    display: flex;
+    display: none;
     flex-direction: column;
     justify-content: space-around;
 }
