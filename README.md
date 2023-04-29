@@ -1,20 +1,20 @@
-# Resumo do Projeto:
+# Resumo do projeto:
 
-- Construção do layout de um e-commerce seguindo um style guide;
-- Utilização de HTML e CSS para a criação da estrutura da aplicação;
-- Uso de tags semânticas, imagens e distribuição de conteúdo.
-- Construção do Header com logo e botões de navegação.
-- Criação da Vitrine para exibição dos cards de produtos.
-- Criação dos Cards com título, foto, descrição, preço e botão de adicionar ao carrinho.
+O projeto é um desafio de front-end para construir um layout de um e-commerce, seguindo um style guide específico. A estruturação inicial será feita em HTML e CSS, e depois a aplicação será dinamizada com JavaScript e manipulação do DOM para tornar todos os elementos funcionais.
 
-## Funcionalidades:
+## Funcionalidades da aplicação:
 
-- Adição da Barra de Pesquisa com input de texto e botão de pesquisa.
-- Criação do Carrinho de Compras com possibilidade de adicionar e remover produtos por meio do DOM.
-- Contagem total dos itens e valor total da compra exibidos no carrinho.
+- Header com logo e botões de navegação;
+- Vitrine de produtos com cards contendo título, foto, descrição, preço e botão - de adicionar ao carrinho;
+- Carrinho de compras para adicionar e remover produtos, exibindo a contagem -
+total de itens e o valor total da compra.
+<!-- - Barra de pesquisa com input e botão para pesquisa; -->
 
-## Tecnologias:
+## Tecnologias utilizadas:
 
 - `HTML`
 - `CSS`
 - `JavaScript`
+- `Manipulação do DOM`
+
+### Link da aplicação: https://christianvada.github.io/projeto-m1-kenzie-ecommercie
